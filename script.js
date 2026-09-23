@@ -168,4 +168,3 @@ document.getElementById('resetBtn').addEventListener('click', () => {
   selectElement(selectedId);
 });
 
-/* ---------- testing 123 ---------- */
